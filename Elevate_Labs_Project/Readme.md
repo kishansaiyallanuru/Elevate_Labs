@@ -119,14 +119,23 @@ cat firewall.log
 </p>
 
 ---
+## Summary 
 
+The Elevate Labs Cybersecurity Internship has significantly enhanced my understanding of real-world cybersecurity practices. Through their structured, task-based learning model, I was able to gain practical experience in areas such as reconnaissance, vulnerability analysis, exploitation, cryptography, and web application security.
+
+Each task was designed to build progressively, and the final project phase gave me the opportunity to apply my learning independently. Working on the Personal Firewall project not only helped me strengthen my technical skills but also taught me how to manage a security-focused project from scratch — including scripting, testing, documenting, and delivering a complete solution.
+
+Thanks to this internship, I have become more confident in developing cybersecurity tools, solving CTF-style challenges, and showcasing my skills through clean documentation and practical deliverables. It has prepared me to take on more advanced roles in ethical hacking, network defense, and cybersecurity research.
+
+---
 ## Author and Submission Details
 
 - **Name**: Yallanuru Kishan Sai 
 - **Department**: B.Tech Cybersecurity  
 - **Institution**: [Amrita Vishwa Vidyapeetam, Coimbatore]  
 - **Semester**: 7th
-- **Project Title**: Personal Firewall with Packet Filtering  
+- **Project Title**: Personal Firewall using Python and Scapy 
 - **Submission Date**: 29 July 2025
-- **Report** : [Report](./Project_Report.pdf) 
----
+- **Report** : [Report](./Project_Report.pdf)
+
+
