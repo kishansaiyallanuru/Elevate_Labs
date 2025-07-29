@@ -1,6 +1,6 @@
-
 # Personal Firewall using Python and Scapy
 
+---
 A lightweight user-level firewall developed using Python 3 and Scapy. This project monitors live network traffic, blocks ICMP (ping) and HTTP (port 80) packets in real time, and logs the blocked attempts to a file. This project is developed for educational purposes under the course **20CYS402 – Distributed Systems and Cloud Computing**.
 
 ---
@@ -84,3 +84,49 @@ chmod +x firewall.py
 ```bash
 sudo python3 firewall.py
 ```
+<p align="center">
+   <img src="images/ss1.png" width=900 />
+</p>
+
+
+---
+
+### Step 5: Generate Network Traffic
+
+#### ICMP Test:
+
+```bash
+ping 8.8.8.8
+
+```
+#### HTTP Test:
+
+```bash
+curl http://example.com
+
+```
+
+### Step 6: View Log Output
+
+```bash
+cat firewall.log
+
+```
+### Saved firewall log 
+
+<p align="center">
+   <img src="images/ss2.png" width=900 />
+</p>
+
+---
+
+## Author and Submission Details
+
+- **Name**: Yallanuru Kishan Sai 
+- **Department**: B.Tech Cybersecurity  
+- **Institution**: [Amrita Vishwa Vidyapeetam, Coimbatore]  
+- **Semester**: 7th
+- **Project Title**: Personal Firewall with Packet Filtering  
+- **Submission Date**: 29 July 2025
+- **Report** : [Report](./Project_Report.pdf) 
+---
